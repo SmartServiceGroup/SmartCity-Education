@@ -4,11 +4,13 @@
 
 ## Introduction
 
-This repository is mainly about a series of research work of the intelligent service research group led by Mrs. Sun Yanchun of Peking University during the past three years, whose research is mainly about smart city services and smart learning services based on big data analysis. 
+This repository is mainly about a series of research work of the intelligent service research group led by associate professor Yanchun Sun at Peking University during the past several years, whose research is mainly about smart city services and smart learning services based on big data analysis.
 
-Smart city services are mainly based on various public data such as Weibo, POI, public transportation data, etc., combined with a variety of machine learning models and data mining methods, from the functions of urban areas, transportation convenience, population density distribution, building functions, etc.,  comprehensively describe urban geographic semantic information from multiple perspectives; smart learning services are mainly based on public data from open source communities such as GitHub, StackOverflow, CSDN, and CNBlogs, and perform different types of data analysis and mining such as user-relationship, repository, API, and code, excavate and establish user learning and development demand models, and provide learning content automatic generation and recommendation services for learners' personalized learning needs based on deep learning, knowledge graph, NLP and other technologies.
+Smart city services are mainly based on various public data such as Weibo, POI, public transportation data, etc., combined with a variety of machine learning models and data mining methods, from the functions of urban areas, transportation convenience, population density distribution, building functions, etc., comprehensively describe urban geographic semantic information from multiple perspectives. Smart learning services are mainly based on various public data from open source communities such as GitHub, Stack Overflow, CSDN, and CNBlogs, and perform different types of data analysis and mining such as user-relationship, repository, API, and code, design and establish user learning and development demand models, and provide automatic learning content generation and recommendation services for learners' personalized learning requirements based on deep learning, knowledge graph, NLP and other technologies.
 
-This repository stores research on smart city services and smart education services, mainly including papers, patents, competitions, codes, open source systems, and data used in the analysis process. The authors of these projects include both graduate and ungraduate students, some unpublished works are excluded.
+This repository stores research on smart city services and smart education services, mainly including papers, patents, competitions, codes, open source systems, and data used in the analysis process. The authors of these projects include both graduate and undergraduate students, some unpublished works are excluded.
+
+ 
 
 
 
