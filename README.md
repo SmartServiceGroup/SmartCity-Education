@@ -52,7 +52,7 @@ This repository stores research on smart city services and smart education servi
   - author: Zihan Xu
   - This repository is a research on the Chinese tech community cnblog. Graph methods are used for Modeling and Classification of Chinese blogs. 
   - year: 2021
-- https://github.com/quackson/springbootApiUsageCase
+- https://github.com/quackson/springbootAPIRecommandation
   - author: Jiaqi Zhang
   - title: An API case recommendation service based on open source community analysis
   - description: This research is mainly a case search study for springboot beginners, and the data comes from GitHub open source data. The algorithms used are mainly graph kernels and spectral clustering. 
