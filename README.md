@@ -88,63 +88,39 @@ This repository stores research on smart city services and smart education servi
 1. A Construction Method of Urban Geographic Semantic Knowledge Graph
 
    - patent no.：ZL201910725275.4
-   - person to complete：Yanchun Sun、Gang Huang、Zixuan LinLiu，Zhiyu Sun。
    - date of authorization：2022.3.25
-
 2. A Comprehensive Urban Geographic Semantic Mining Method based on Multivariate Big Data
 
    - patent no.：ZL201910701692.5
-
-   - person to complete：Yanchun Sun、Gang Huang、Yu Liu、Jiu Wen
-
    - date of authorization：2022.1.28
-
 3. An Optimization Method and System for Open Source Project Knowledge Graph
 
    - patent no.：ZL202010643010.2
-
-   - person to complete：Yanchun Sun、Gang Huang、Zhiyu Sun
-
    - date of authorization：2021.6.25
 
 4. A Recommendation Method and System for Supporting Fragmented Learning in Open Source Projects
 
    - patent no.：ZL202010643009.X
-
-   - person to complete：Yanchun Sun、Gang Huang、Zhiyu Sun
-
    - date of authorization：2021.5.28
 
 5. A Mining Method of Disease Influencing Factors based on Gene Chip Data
 
    - patent no.：201710595987X
-
-   - person to complete：Yanchun Sun，Zijian Qiao
-
    - date of authorization：2020.3.20
 
 6. A Diet Control method and Control System for Mobile Health and Medical Care
 
    - patent no.：ZL 201610681391.7
-
-   - person to complete：Yanchun Sun、Lingyun Zu、Zhiyu Sun、Jialun Shao
-
    - date of authorization：2018.12.04
 
 7. A Method for Recommending Optimal Contact Information to Mobile Users based on Context Awareness
 
    - patent no.：ZL 201410709710.1
-
-   - person to complete：Yanchun Sun、Xiwei Zhuang、Kui Wei、Gang Huang
-
    - date of authorization：2018.02.09
 
 8. An Online Vector Modeling Process Description and Reproduction Method
 
    - patent no.：201410662733.1
-
-   - person to complete：Yanchun Sun, Dejian Chen, Gang Huang
-
    - date of authorization：2017.11.06
 
 
